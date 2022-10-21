@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/yandex-praktikum/middle.messenger.praktikum.yandex#readme",
   "devDependencies": {
-    "parcel": "^2.7.0"
+    "parcel": "^2.7.0",
+    "sass": "^1.55.0"
+  },
+    "engines": {
+    "node": ">=12.0.0"
   }
 }
